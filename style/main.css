@@ -1,0 +1,27 @@
+#page {
+  background-color: blue;
+  width: 100vw;
+}
+
+#page ul {
+  background-color: lightgrey;
+  width: 50vw;
+}
+
+#page li {
+  background-color: pink;
+}
+
+#page li:last-of-type {
+  background-color: orange;
+}
+
+#page ul.klasa {
+  background-color: cadetblue;
+}
+
+#page ul.klasa li {
+  background-color: blue;
+  color: red;
+}
+/*# sourceMappingURL=main.css.map */
